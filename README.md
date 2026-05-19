@@ -24,4 +24,4 @@ Now run `./chat` or `.\chat` and start chatting with the bot.
 ![chat](https://github.com/jaswal72/chatbot/blob/master/src/images/chat2.jpg)
 
 #### For any issues contact me at:
-shubham__jaswal@hotmail.com  
+ayush16naudiyal@gmail.com
